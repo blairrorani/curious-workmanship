@@ -1,0 +1,19 @@
+---
+title: Curious Workmanship
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+email: cw@domain.com
+description: 'Resources for learning and applying the Gospel
+
+'
+baseurl: 
+url: http://curiousworkmanship.co
+twitter_username: curiouswrk
+github_username: 
+markdown: kramdown
