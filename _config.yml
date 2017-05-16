@@ -1,19 +1,19 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
+---
 title: Curious Workmanship
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 email: cw@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Resources for learning and applying the Gospel
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://curiousworkmanship.co" # the base hostname & protocol for your site
-twitter_username: curiouswrk
-github_username:
+description: 'Resources for learning and applying the Gospel
 
-# Build settings
+'
+baseurl: ''
+url: http://curiousworkmanship.co
+twitter_username: curiouswrk
+github_username: 
 markdown: kramdown
