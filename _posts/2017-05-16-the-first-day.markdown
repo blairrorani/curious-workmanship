@@ -1,6 +1,8 @@
 ---
 title: The first day
-date: 2017-05-16 19:59:00 Z
+date: 2017-05-16 08:00:00 Z
+categories:
+- why
 layout: post
 ---
 
