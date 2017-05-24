@@ -1,3 +1,12 @@
 /**
  * custom styling
  */
+ .site-header {
+     border: none;
+     min-height: 80px;
+     padding-top: 15px;
+     margin-bottom: 30px;
+
+     // Positioning context for the mobile navigation icon
+     position: relative;
+ }
