@@ -4,7 +4,6 @@ permalink: "/about/"
 layout: page
 ---
 
-
 Hello I'm [Blair Rorani](http://blair.rorani.com).
 
 I love the Gospel of Jesus Christ. I try to learn and live it the best that I can, and I teach my children to do the same.
