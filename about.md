@@ -4,6 +4,11 @@ permalink: "/about/"
 layout: page
 ---
 
+
 Hello I'm [Blair Rorani](http://blair.rorani.com).
 
-I love The Gospel of Jesus Christ, it is simple and beautiful. I want to learn and live the Gospel, and to teach it to our children. I decided to design resources to make it easy and enjoyable for my children to learn and apply the Gospel. Curious Workmanship is a way for me to share these resources with others.
+I love the Gospel of Jesus Christ. I try to learn and live it the best that I can, and I teach my children to do the same.
+
+I use my background as a designer to make practical, visual resources for learning and living the Gospel (things like trading cards, maps, scripture mastery flashcards, and infographics).
+
+Curious Workmanship is a way for me to share these resources with people like you.
