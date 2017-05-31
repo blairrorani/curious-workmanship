@@ -1,6 +1,6 @@
 ---
 title: Curious Workmanship
-timezone: UTC
+timezone: Australia/Sydney
 collections:
   posts:
     title: Posts
@@ -8,8 +8,8 @@ collections:
   uploads:
     title: Uploads
     output: true
-email: cw@domain.com
-description: 'Resources for learning and applying the Gospel
+email: cw@rorani.com
+description: 'Practical, visual resources for learning and applying the Gospel
 
 '
 baseurl: 
