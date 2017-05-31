@@ -12,4 +12,4 @@ I take lots of visual notes (some people call them 'sketchnotes') on my iPad. Th
 
 ![The Holy Ghost is the best companion](/uploads/IMG_1109.PNG)
 
-[Fully unwrap the Gift of the Holy Ghost](/uploads/IMG_1108.PNG)
+![Fully unwrap the Gift of the Holy Ghost](/uploads/IMG_1108.PNG)
