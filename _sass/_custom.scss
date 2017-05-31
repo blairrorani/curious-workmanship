@@ -11,6 +11,24 @@
      font: #{$base-font-size}/#{$base-line-height};
  }
 
+ a {
+     color: $link-color;
+     text-decoration: none;
+     border-bottom: 2px solid $underline-color;
+
+
+     &:visited {
+         color: darken($link-color, 15%);
+     }
+
+     &:hover {
+         color: $text-color;
+         text-decoration: none;
+         border-bottom: 2px solid $underline-color;
+         background-color: $underline-color;
+     }
+ }
+
 /**
  * layout styling
  */
@@ -56,14 +74,19 @@
      }
  }
 
-.site-footer {
-  border: none;
-  bottom: 0;
-}
+ .site-footer {
+   border: none;
+   bottom: 0;
+ }
 
- .footer-col-wrapper {
-     font-size: $base-font-size;
-   }
+  .footer-col-wrapper {
+      font-size: $base-font-size;
+    }
+
+    .post-link {
+        display: inline;
+        font-size: 24px;
+    }
 
 /**
  * my styles
