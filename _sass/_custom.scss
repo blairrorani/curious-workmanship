@@ -13,19 +13,17 @@
 
  a {
      color: $link-color;
-     text-decoration: none;
-     border-bottom: 2px solid $underline-color;
-
+     text-decoration: underline;
+     font-weight: $base-font-weight * 2;
 
      &:visited {
-         color: darken($link-color, 15%);
+         color: $link-color;
      }
 
      &:hover {
-         color: $text-color;
+         color: white;
          text-decoration: none;
-         border-bottom: 2px solid $underline-color;
-         background-color: $underline-color;
+         background-color: $link-color;
      }
  }
 
@@ -49,7 +47,8 @@
      padding-top: 15px;
      padding-bottom: 30px;
      margin-bottom: 30px;
-     background-color: #EFEDD8;
+     background-color: #2c3e50;
+     color: white;
  }
 
 .site-header h2 {
@@ -86,6 +85,17 @@
     .post-link {
         display: inline;
         font-size: 24px;
+    }
+
+    .footer-links {
+      list-style: none;
+      margin-left: 0;
+    }
+
+    .footer-links li {
+      display: block;
+      float:left;
+      margin-right: 30px;
     }
 
 /**
