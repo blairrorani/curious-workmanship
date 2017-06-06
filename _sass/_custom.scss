@@ -121,3 +121,50 @@
    margin-right: auto;
    display: block;
  }
+
+form {
+  max-width: 60%;
+  margin-top: 30px;
+
+  @include media-query($on-palm) {
+    max-width: 100%;
+ }
+}
+
+ input {
+    width: 100%;
+    color: #95a5a6;
+    font-family: $base-font-family;
+    font-size: $base-font-size;
+}
+
+label {
+  font-weight: $base-font-weight *2;
+}
+
+input[type=text],
+input[type=email] {
+  font-size: $base-font-size;
+  margin-bottom: 15px;
+  padding: 5px;
+  box-sizing: border-box;
+}
+
+input[type=button],
+input[type=submit],
+input[type=reset] {
+    background-color: $link-color;
+    border: none;
+    color: white;
+    font-weight: $base-font-weight * 2;
+    padding: 15px 30px;
+    text-decoration: none;
+    cursor: pointer;
+    width: 100%;
+
+    @include media-query($on-palm) {
+      max-width: 100%;
+   }
+}
+
+/* Tip: use width: 100% for full-width buttons */
