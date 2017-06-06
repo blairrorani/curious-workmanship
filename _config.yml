@@ -9,11 +9,11 @@ collections:
     title: Uploads
     output: true
 email: cw@rorani.com
-description: 'Practical, visual resources for learning and applying the Gospel
+description: 'Practical, visual resources for Latter-day Saints
 
 '
-baseurl: 
+baseurl:
 url: http://curiousworkmanship.co
 twitter_username: curiouswrk
-github_username: 
+github_username:
 markdown: kramdown
