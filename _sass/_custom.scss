@@ -133,7 +133,7 @@ form {
 
  input {
     width: 100%;
-    color: #95a5a6;
+    color: $text-color;
     font-family: $base-font-family;
     font-size: $base-font-size;
 }
@@ -161,6 +161,7 @@ input[type=reset] {
     text-decoration: none;
     cursor: pointer;
     width: 100%;
+    -webkit-appearance: none;
 
     @include media-query($on-palm) {
       max-width: 100%;
