@@ -161,7 +161,8 @@ input[type=reset] {
     text-decoration: none;
     cursor: pointer;
     width: 100%;
-
+    -webkit-appearance: none;
+    
     @include media-query($on-palm) {
       max-width: 100%;
    }
