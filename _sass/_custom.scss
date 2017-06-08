@@ -27,6 +27,19 @@
      }
  }
 
+ blockquote {
+     color: $grey-color;
+     border-left: 4px solid $link-color;
+     padding-left: $spacing-unit / 2;
+     font-size: $base-font-size;
+     letter-spacing: normal;
+     font-style: italic;
+
+     > :last-child {
+         margin-bottom: 0;
+     }
+ }
+
 /**
  * layout styling
  */
@@ -125,6 +138,7 @@
 form {
   max-width: 60%;
   margin-top: 30px;
+  margin-bottom: 30px;
 
   @include media-query($on-palm) {
     max-width: 100%;
