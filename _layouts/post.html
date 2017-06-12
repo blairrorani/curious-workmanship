@@ -12,8 +12,8 @@ layout: default
         by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author.name }}</span></span>
       {% else %}
 
-      {% endif %}
-      </p>
+      {% endif %} in <a href="/{{ page.categories}}">{{ page.categories}}</a>
+    </p>
   </header>
 
   <div class="post-content" itemprop="articleBody">
@@ -21,8 +21,6 @@ layout: default
   </div>
 
 </article>
-
-<p>{{ page.categories }}</p>
 
 <ul class="list-the-tags">
 {% for tag in page.tags %}
