@@ -7,8 +7,8 @@ categories:
 tags:
 - matthew
 - newtestament
-author-details:
-  author: Blair
+author:
+  name: Blair
   link: http://twitter.com/blairrorani
 ---
 
