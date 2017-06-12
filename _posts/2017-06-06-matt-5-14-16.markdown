@@ -4,6 +4,7 @@ date: 2017-06-06 06:00:00 +10:00
 permalink: matt-5-14-to-16
 categories:
 - visualnotetaking
+- visual note-taking
 tags:
 - matthew
 - newtestament
