@@ -192,5 +192,10 @@ input[type=reset] {
 .list-the-tags li {
   display: block;
   list-style: none;
-  background-color: yellow;
+  float: left;
+  padding-right: 15px;
+}
+
+.list-the-tags ul {
+  margin-left: 0;
 }
