@@ -8,10 +8,10 @@ layout: default
     <p class="post-meta">Posted on <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date:  "%-d %B %Y" }}</time>
       {% if page.author.link %}
         by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name"><a href="{{ page.author.link}}" target="_blank">{{ page.author.name }}</a></span></span>
-      {% elseif page.author %}
+      {% elsif page.author.name %}
         by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author.name }}</span></span>
       {% else %}
-      
+
       {% endif %}
       </p>
   </header>
