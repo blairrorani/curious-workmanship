@@ -6,7 +6,7 @@ categories:
 - visual note-taking
 tags:
 - matthew
-- new testament
+- newtestament
 ---
 
 ![matt-5vv14-16.png](/uploads/matt-5vv14-16.png)
