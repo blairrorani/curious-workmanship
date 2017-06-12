@@ -1,7 +1,7 @@
 ---
 title: About
 permalink: "/about/"
-layout: page
+layout: about
 ---
 
 ![avatar-hoodie.png](/uploads/avatar-hoodie.png)
@@ -13,3 +13,5 @@ I love the Gospel of Jesus Christ. I try to learn and live it the best that I ca
 I use my background as a designer to make practical, visual resources for learning and living the Gospel (things like trading cards, maps, scripture mastery flashcards, and infographics).
 
 Curious Workmanship is a way for me to share these resources with people like you.
+
+{% include post-footer.html %}
