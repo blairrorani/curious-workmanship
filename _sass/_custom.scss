@@ -193,4 +193,9 @@ input[type=reset] {
   display: block;
   list-style: none;
   background-color: yellow;
+  float: left;
+}
+
+.list-the-tags ul {
+  margin-left: 0;
 }
