@@ -14,11 +14,9 @@ layout: default
 
 </article>
 
-<p>{{ page.tags | array_to_sentence_string }}</p>
-
-<ul>
+<ul class="list-the-tags">
 {% for tag in page.tags %}
-    <li> {{tag}} </li>
+    <li>#{{tag}}</li>
 {% endfor %}
 </ul>
 
