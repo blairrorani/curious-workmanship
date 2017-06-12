@@ -188,3 +188,9 @@ input[type=reset] {
 }
 
 /* Tip: use width: 100% for full-width buttons */
+
+.list-the-tags li {
+  display: block;
+  list-style: none;
+  background-color: yellow;
+}
