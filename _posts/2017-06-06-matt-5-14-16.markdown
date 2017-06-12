@@ -7,7 +7,9 @@ categories:
 tags:
 - matthew
 - newtestament
-author: "@blairrorani"
+author-details:
+  author: Blair
+  link: http://twitter.com/blairrorani
 ---
 
 ![matt-5vv14-16.png](/uploads/matt-5vv14-16.png)
