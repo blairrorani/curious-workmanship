@@ -6,6 +6,9 @@ tags:
 - elderholland
 - presidenteyring
 - holyghost
+author:
+  name: Blair
+  link: http://twitter.com/blairrorani
 ---
 
 ![face-to-face-holland-eyring-600px.png](/uploads/face-to-face-holland-eyring-600px.png)
