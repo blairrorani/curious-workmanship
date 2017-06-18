@@ -3,6 +3,11 @@ title: Bishopric youth discussion (June 2017)
 date: 2017-06-20 08:00:00 +10:00
 categories:
 - visual note-taking
+tags:
+- byd
+- bishopricyouthdiscussion
+- holyghost
+- patriarchalblessing
 author:
   name: Blair
   link: http://twitter.com/blairrornai
