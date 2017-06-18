@@ -1,6 +1,8 @@
 ---
 title: Face-to-face with Elder Holland and President Eyring
 date: 2017-06-13 08:00:00 +10:00
+categories:
+- visual note-taking
 tags:
 - face-to-face
 - elderholland
