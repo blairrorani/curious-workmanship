@@ -9,3 +9,5 @@ tags:
 ---
 
 [ascend-together.m4v](/uploads/ascend-together.m4v)
+
+![ascend-together.m4v](/uploads/ascend-together.m4v)
